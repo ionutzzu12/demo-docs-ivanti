@@ -1,8 +1,8 @@
-## CATEGORY 1
+## Categ 1
 
-- [Spaces](./Spaces.md)
-- [Space examples](./Space Examples.md)
+- [Access](Access.md)
 
-## CATEGORY 2
-- [System](./System.md)
+## Categ 2
 
+- [Spaces](Spaces.md)
+- [Space example](Space Example.md)
