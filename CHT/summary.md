@@ -1,8 +1,8 @@
 ## Categ 1
 
-- [Access](Access.md)
+- [Access](Help/Content/Access.md)
 
 ## Categ 2
 
-- [Spaces](Spaces.md)
-- [Space example](Space Example.md)
+- [Spaces](Help/Content/Spaces.md)
+- [Space example](Help/Content/Space Example.md)

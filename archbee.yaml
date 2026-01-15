@@ -1,5 +1,4 @@
-docsPath: ./CHS
-summary: summary.md
+
 sites:
   - docsPath: ./CHS
   - docsPath: ./CHT
