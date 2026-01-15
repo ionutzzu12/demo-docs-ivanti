@@ -14,4 +14,9 @@ structure:
 footerTemplate: ""
 headerIncludes: ""
 sites:
-  - docsPath: ./DEU
+  - docsPath: ./ESP
+  - docsPath: ./ENG
+  - docsPath: ./FR
+  - docsPath: ./RO
+  - docsPath: ./FIN
+  - docsPath: ./PTB
