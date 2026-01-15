@@ -1,0 +1,73 @@
+---
+title: Security Configuration
+createdAt: Wed Dec 10 2025 07:42:03 GMT+0000 (Coordinated Universal Time)
+updatedAt: Wed Dec 10 2025 07:42:28 GMT+0000 (Coordinated Universal Time)
+---
+
+ Cette section traite des sujets suivants :
+- Configuration d'Android Enterprise
+- Modification de la configuration Android Enterprise par défaut
+- Configuration d'Android Enterprise
+- Défi professionnel Android
+- Configuration de certificat
+- Transparence des certificats
+- Configuration de vérification de révocation des certificats
+- Création d'une configuration Mode Single App autonome
+- Création d'une configuration Proxy DNS
+- Configuration Journalisation des périphériques
+- Configuration Gestion des disques
+- Configuration avec cryptage (Android uniquement)
+- Cryptage DNS
+- Protection contre les menaces mobiles
+- FileVault 2
+- Clé de récupération FileVault
+- Configuration des options FileVault
+- Configuration avec certificat de clé publique
+- Configuration du verrouillage d'activation iOS
+- Configuration personnalisée d'iOS
+- Configuration de restrictions (iOS uniquement)
+- Affichage Salle de conférence
+- Configuration avec verrouillage
+- Configuration du mode kiosque pour Android
+- Configuration du kiosque de périphérique partagé Android
+- Verrouillage et mode Kiosque : Android Enterprise
+- Verrouillage et mode Kiosque : Samsung Knox Standard
+- Pare-feu OS X
+- Restrictions macOS
+- Restrictions AppStore macOS
+- Restrictions relatives à la gravure des disques sous macOS
+- Gestion de support autorisée
+- Paramètres du Finder macOS
+- Stratégie d'extensions de noyau macOS
+- Mobile@Work pour macOS
+- Configuration des paramètres de mise à jour logicielle de macOS
+- Préférence de certificat
+- Active Directory (macOS)
+- Préférence d'identité
+- Création de compte automatique Microsoft 365 (macOS)
+- Authentification
+- Catalogue d'applis Apple
+- Configuration des domaines gérés
+- Configuration du code d'accès
+- Préférences de confidentialité (macOS)
+- Paramètres de client Ivanti Go
+- Configuration de la confidentialité
+- Informations concernant la déclaration de confidentialité du client
+- Configuration des paramètres d'extension Safari
+- Mises à jour logicielles
+- Configuration Paramètres de mise à jour logicielle
+- Configuration des préférences de sécurité
+- Serveur de temps
+- Configuration Filtre de contenu Web
+- Pare-feu Windows
+- Configuration de la protection des informations Windows
+- Configuration des restrictions de Windows
+- Restrictions relatives au Bureau Windows
+- Paramètres du bureau pour Windows 10
+- Configuration Windows Hello for Business
+- Configuration Gestion IA Windows
+- Play Integrity (Anciennement Attestation SafetyNet)
+- Écran de verrouillage et code d'accès avancés d'Android
+- Microsoft Defender pour point de terminaison
+- Authentification basée sur des certificats
+

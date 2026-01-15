@@ -1,0 +1,73 @@
+---
+title: Security Configuration
+createdAt: Wed Dec 10 2025 07:42:03 GMT+0000 (Coordinated Universal Time)
+updatedAt: Wed Dec 10 2025 07:42:28 GMT+0000 (Coordinated Universal Time)
+---
+
+This section contains the following topics:
+
+- Android Enterprise Configuration
+- Editing the Android Enterprise default configuration
+- Setting up Android Enterprise
+- Android Work Challenge
+- Certificate Configuration
+- Certificate Transparency
+- Certificate Revocation Checking Configuration
+- Create Autonomous Single App Mode Configuration
+- Creating DNS Proxy Configuration
+- Device Logging Configuration
+- Disk Management Configuration
+- Encryption Configuration (Android Only)
+- Encrypted DNS
+- Mobile Threat Defense
+- FileVault 2
+- FileVault Recovery Key
+- Filevault Options Configurations
+- Identity Certificate Configuration
+- iOS Activation Lock Configuration
+- iOS Custom Configuration
+- Restrictions Configuration (iOS only)
+- Conference Room Display
+- Lockdown Configuration
+- Setting up Kiosk Mode for Android
+- Setting up Android shared device kiosk
+- Lockdown and Kiosk: Android Enterprise
+- Lockdown and Kiosk: Samsung Knox Standard
+- OS X Firewall
+- macOS Restrictions
+- macOS AppStore Restrictions
+- macOS Disk Burning Restrictions
+- Allowed Media Control
+- macOS Finder Settings
+- macOS Kernel Extension Policy
+- Mobile\@Work for macOS
+- macOS Software Update Rules Configuration
+- Certificate Preference
+- Active Directory (macOS)
+- Identity Preference
+- Microsoft 365 Auto Account Creation (macOS)
+- Authenticate
+- Apple App Catalog
+- Managed Domains Configuration
+- Passcode Settings
+- Privacy Preference (macOS)
+- Ivanti Go Client Settings
+- Privacy Configuration
+- Client Privacy Statement Information
+- Safari Extension Settings Configuration
+- Software\_Updates
+- Software Update Settings Configuration
+- Security Preferences Configuration
+- Time Server
+- Web Content Filter Configuration
+- Windows Firewall
+- Windows Information Protection Configuration
+- Windows Restrictions Configuration
+- Windows Desktop restrictions
+- Desktop Settings for Windows 10
+- Windows Hello for Business Configuration
+- Windows AI Management Configuration
+- Play Integrity (Previously SafetyNet Attestation)
+- Advanced Android Passcode and Lock Screen
+- Microsoft Defender for Endpoint
+- Certificate-based Authentication

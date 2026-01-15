@@ -1,0 +1,17 @@
+docsPath: ./DEU
+structure:
+  summary: toc.md
+  assets: assets
+  docTreeOptions:
+    showDownloadOpenApiFile: true
+    shouldCreateSchemaCategory: true
+    openApiTryIt: false
+    openApiLanguageExamples:
+      - value: python
+        label: py
+      - value: javascript
+        label: js
+footerTemplate: ""
+headerIncludes: ""
+sites:
+  - docsPath: ./DEU

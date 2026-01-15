@@ -1,0 +1,73 @@
+---
+title: Security Configuration
+createdAt: Wed Dec 10 2025 07:42:03 GMT+0000 (Coordinated Universal Time)
+updatedAt: Wed Dec 10 2025 07:42:28 GMT+0000 (Coordinated Universal Time)
+---
+
+このセクションは以下のトピックを含みます。
+- Android Enterprise 構成
+- 既定の Android Enterprise 構成の編集
+- Android Enterprise の設定
+- Android仕事用本人確認
+- 証明書構成
+- 証明書の透明性
+- 証明書失効チェック構成
+- 自律 Single Appモード構成の作成
+- DNSプロキシ構成の作成
+- デバイスログ構成
+- ディスク管理構成
+- 暗号化構成（Androidのみ）
+- 暗号化DNS
+- MobileIron Threat Defense
+- FileVault 2
+- FileVaultリカバリキー
+- FileVaultオプション構成
+- ID証明書構成
+- iOSアクティベーションロック構成
+- iOSカスタム構成
+- 制約構成（iOSのみ）
+- 会議室ディスプレイ
+- ロックダウン構成
+- Android対応キオスクモードの設定
+- Android共有デバイスキオスクの設定
+- ロックダウンとキオスク：Android Enterprise
+- ロックダウンとキオスク：Samsung Knox Standard
+- OS Xのファイアウォール
+- macOSの制約
+- macOS AppStoreの制約
+- macOSディスク焼き付けの制約
+- 許可メディアの制御
+- macOS Finder設定
+- macOSカーネル拡張ポリシー
+- macOS対応Mobile@Work
+- macOSソフトウェア更新ルール構成
+- 証明書設定
+- Active Directory（macOS）
+- ID設定
+- Microsoft 365自動アカウント作成（macOS）
+- 認証
+- Appleアプリカタログ
+- マネージドドメイン構成
+- パスコード設定
+- プライバシー設定（macOS）
+- Ivanti Goクライアント設定
+- プライバシー構成
+- クライアントプライバシーステートメント情報
+- Safari拡張機能の設定構成
+- ソフトウェア更新
+- ソフトウェア更新設定構成
+- セキュリティ設定の構成
+- タイムサーバー
+- Webコンテンツフィルタ構成
+- Windowsファイアウォール
+- Windows情報保護の構成
+- Windows制約構成
+- Windowsデスクトップ制約
+- Windows 10のデスクトップ設定
+- Windows Hello for Business構成
+- Windows AI管理構成
+- Play Integrity（旧称SafetyNet Attestation）
+- 高度なAndroidパスコードおよびロック画面
+- Microsoft Defender for Endpoint
+- 証明書ベースの認証
+
