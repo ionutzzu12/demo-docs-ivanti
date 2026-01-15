@@ -1,22 +1,13 @@
-docsPath: ./DEU
-structure:
-  summary: toc.md
-  assets: assets
-  docTreeOptions:
-    showDownloadOpenApiFile: true
-    shouldCreateSchemaCategory: true
-    openApiTryIt: false
-    openApiLanguageExamples:
-      - value: python
-        label: py
-      - value: javascript
-        label: js
-footerTemplate: ""
-headerIncludes: ""
 sites:
-  - docsPath: ./ESP
+  - docsPath: ./CHS
+  - docsPath: ./CHT
+  - docsPath: ./DEU
   - docsPath: ./ENG
-  - docsPath: ./FR
-  - docsPath: ./RO
+  - docsPath: ./ENU
+  - docsPath: ./ESP
   - docsPath: ./FIN
+  - docsPath: ./FRA
+  - docsPath: ./ITA
+  - docsPath: ./JPN
+  - docsPath: ./KOR
   - docsPath: ./PTB
