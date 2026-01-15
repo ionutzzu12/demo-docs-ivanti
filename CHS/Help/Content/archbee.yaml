@@ -1,4 +1,4 @@
-docsPath: .
+docsPath: ./CHS
 structure:
   summary: summary.md
   assets: assets
