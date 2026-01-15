@@ -4,6 +4,10 @@ createdAt: Wed Dec 10 2025 07:42:00 GMT+0000 (Coordinated Universal Time)
 updatedAt: Wed Dec 10 2025 07:42:28 GMT+0000 (Coordinated Universal Time)
 ---
 
+:::hint{type="info"}
+this is  CHT
+:::
+
 Using ADMX (GPO) browser, you can view the GPO settings organized on the basis of the ADMX objects that exist in the tenant. You can search and view the default ADMX objects and also add (upload) custom ADMX files that provide an XML-based structure for defining the display of the GPO settings
 
 To upload custom ADMX object:
