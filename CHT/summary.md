@@ -6,4 +6,4 @@
 ## Categ 2
 
 - [Spaces](Help/Content/Spaces.md)
-- ["Space example"]("Help/Content/Space Examples.md")
+- [Configurations](Help/Content/Configurations.md)
