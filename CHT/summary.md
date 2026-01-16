@@ -6,4 +6,3 @@
 ## Categ 2
 
 - [Spaces](Help/Content/Spaces.md)
-- [Configurations](Help/Content/Configurations.md)
